@@ -1,0 +1,91 @@
+.box{
+    background:white;
+}
+
+ 
+ 
+
+ .container{
+    border: 3px solid black;
+    margin-left: 5px;
+    padding: 8px;
+
+    background-color: black;
+    color: aliceblue;
+    position: relative; left: 400px; top:20px
+ }
+ .first{
+    display: flex;
+    background-color:  rgb(247, 9, 9) ;
+    height: 80px;
+
+    padding: 2px;
+    
+    
+    
+ }
+   .second{
+    display: flex;
+    background-color: rgb(245, 231, 231);
+    
+    
+   }
+     
+   .three{
+    position: relative; left: 260px;
+    color: red;
+   }
+
+   .blood{
+    border: 1px solid black;
+    width: 100px;
+    height: 20%;
+    padding:30px;
+    padding-top: 30px;
+    background-color: black;
+    color: white;
+    
+   }
+  
+   #blue{
+    background-color: blue;
+    color: white;
+   }
+
+   .five{
+    position: relative; left: 40px; top:5px;
+    color: black; 
+    margin-top: 10px;
+   }
+
+   .vane{
+    position: relative; left: 40px; top:10px;
+    color: white;
+    background-color: red;
+    height: 30px;
+    width: 250px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+      
+    
+
+   }
+   #red{
+
+    color: red;
+   }
+   .corner{
+    padding-left: 600px; 
+    position: relative; left: 40px; bottom: 20px;
+    
+
+   }
+
+   .shift{
+        position: relative; left: 40px; top:10px;
+color: white;
+font-size: x-large;
+
+   }
